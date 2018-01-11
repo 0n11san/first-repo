@@ -3,6 +3,9 @@
 ## Description
 This projects calls a super secret api and gets data for people and then looks up food they like and automatically delivers it to their house on Saturdays. There are no returns once an order is placed.
 
+## UI Mockup
+UI sketch goes here...
+
 ## Architecture
 
 Picture goes here...
